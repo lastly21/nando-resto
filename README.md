@@ -1,2 +1,2 @@
 # nando-resto
-Premium Resto Nando 
+Resto Nando 
